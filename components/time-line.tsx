@@ -22,6 +22,8 @@ const TimeLine = () => {
                                 <div className="text-xl font-bold text-gray-400">{data.subtitle}</div>
                             </div>
                             <div className="text-slate-400">{data.description}</div>
+                            <div className="text-xl font-bold text-gray-400">Tecnologías y Skill</div>
+                            <div className="text-slate-400">{data.tech}</div>
                         </div>
                     ))}
                 </div>
