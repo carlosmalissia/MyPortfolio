@@ -160,24 +160,24 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
-        image: "/image-1.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "E-commerce web",
+        image: "/henrucci.png",
+        urlGithub: "https://github.com/geniototal/pf-henry-15a-ecommerce-frontend",
+        urlDemo: "https://pf-henry-15a-ecommerce-frontend.vercel.app/",
     },
     {
         id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Dashboard con Next 14",
+        image: "/hero-desktop.png",
+        urlGithub: "https://github.com/geniototal/Dashboard-Next14",
+        urlDemo: "http://dashboard-next14-coral.vercel.app/",
     },
     {
         id: 3,
-        title: "Estrategias Web",
-        image: "/image-3.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Portfolio Animado",
+        image: "/portada-portfolio.jpg",
+        urlGithub: "https://github.com/geniototal/MyPortfolio",
+        urlDemo: "https://transcendent-panda-cdf84f.netlify.app/",
     },
     {
         id: 4,
@@ -209,11 +209,11 @@ export const dataPortfolio = [
     },
     {
         id: 8,
-        title: "E-commerce web",
-        image: "/image-8.jpg",
+        title: "Web Pro",
+        image: "/image-1.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
-    }
+    },
 ];
 
 export const dataTestimonials = [
