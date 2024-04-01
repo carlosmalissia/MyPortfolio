@@ -13,9 +13,9 @@ const ServicesPage = () => {
             <div className="grid items-center justify-center h-screen max-w-5xl gap-6 mx-auto md:grid-cols-2">
                 <div className="max-w-[450px] z-10">
 
-                    <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">Mis <span className="font-bold text-secondary"> servicios.</span></h1>
-                    <p className="mb-3 text-xl text-gray-300">Ofrezco servicios de desarrollo web frontend especializados en la creación de sitios web y aplicaciones atractivas y funcionales. Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.</p>
-                    <button className="px-3 py-2 ml-10 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
+                    <h1 className="text-2xl leading-tight text-center mt-[140px] md:mt-0 md:text-center md:text-3xl  md:ml-20">Mis <span className="font-bold text-secondary"> servicios.</span></h1>
+                    <p className="mt-2 md:mt-0 md:mb-4 text-sm text-gray-300 md:text-base md:ml-20">Ofrezco servicios de desarrollo web frontend especializados en la creación de sitios web y aplicaciones atractivas y funcionales. Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.</p>
+                    <button className=" mt-5 px-3 py-2 ml-[140px] md:ml-[200px] rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
                 </div>
 
                 {/* SLIDER */}
