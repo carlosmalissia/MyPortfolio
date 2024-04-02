@@ -40,10 +40,10 @@ const Introduction = () => {
                         <Link href="/portfolio" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Ver proyectos
                         </Link>
-                        <a href="/contact"
+                        <Link href="/contact"
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
                             Contacta conmigo
-                        </a>
+                        </Link>
                     </div>
                     <div className="flex items-center justify-center gap-7">
                         {socialNetworks.map(({ logo, src, id }) => (
