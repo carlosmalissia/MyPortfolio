@@ -1,10 +1,10 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, MessageCircleHeart, Facebook } from "lucide-react";
 
 export const socialNetworks = [
     {
         id: 1,
         logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.youtube.com/channel/UClN-uKyTXA8sy8jXVINEH2A",
     },
     {
         id: 2,
@@ -18,12 +18,12 @@ export const socialNetworks = [
     },
     {
         id: 4,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <MessageCircleHeart size={30} strokeWidth={1} />,
+        src: "https://wa.me/5493548507863?text=Hola,%20en%20que%20te%20puedo%20ayudar?%0AHi,%20how%20can%20I%20help%20you?",
     },
     {
         id: 5,
-        logo: <Twitch size={30} strokeWidth={1} />,
+        logo: <Facebook size={30} strokeWidth={1} />,
         src: "#!",
     },
 ];
@@ -160,7 +160,7 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "E-commerce web",
+        title: "E-commerce web   Henrucci",
         image: "/henrucci.png",
         urlGithub: "https://github.com/geniototal/pf-henry-15a-ecommerce-frontend",
         urlDemo: "https://pf-henry-15a-ecommerce-frontend.vercel.app/",
@@ -174,23 +174,23 @@ export const dataPortfolio = [
     },
     {
         id: 3,
-        title: "Portfolio Animado",
+        title: "Portfolio Animado Genio Total",
         image: "/portada-portfolio.jpg",
         urlGithub: "https://github.com/geniototal/MyPortfolio",
         urlDemo: "https://transcendent-panda-cdf84f.netlify.app/",
     },
     {
         id: 4,
-        title: "Ideas Creativas",
-        image: "/image-4.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Ideas Creativas: Inmobiliaria Punilla",
+        image: "/inmobiliaria.png",
+        urlGithub: "https://github.com/geniototal/Inmobiliaria-Punilla",
+        urlDemo: "https://inmobiliariapunilla.netlify.app/",
     },
     {
         id: 5,
         title: "Webs Impactantes",
         image: "/image-5.jpg",
-        urlGithub: "#!",
+        urlGithub: "",
         urlDemo: "#!",
     },
     {
