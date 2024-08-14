@@ -18,8 +18,6 @@ const ContactPage = () => {
                         sequence={[
                             'Carlos Malissia',
                             1000,
-                            'Genio Total',
-                            1000,
                             'Desarrollador web',
                             1000,
                             'Full Stack',
