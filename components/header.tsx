@@ -11,8 +11,8 @@ const Header = () => {
                 <div className="container justify-between max-w-6xl mx-auto md:flex">
                     <Link href='/'>
                         <h1 className="my-3 text-4xl font-bold text-center md:text-left">
-                            Genio
-                            <span className="text-secondary">Total</span>
+                            Carlos
+                            <span className="text-secondary">Malissia</span>
                         </h1>
                     </Link>
 
