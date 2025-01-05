@@ -232,10 +232,10 @@ export const dataPortfolio = [
     },
     {
         id: 7,
-        title: "Dark Web ",
-        image: "/image-7.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Aromas del Uritorco ",
+        image: "/aromasDelUritorco.jpg",
+        urlGithub: "https://www.aromasdeluritorco.com.ar/",
+        urlDemo: "https://www.aromasdeluritorco.com.ar/",
     },
     {
         id: 8,
