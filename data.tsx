@@ -73,9 +73,9 @@ export const dataAboutPage = [
     },
     {
         id: 2,
-        title: "Frontend Developer",
+        title: "Frontend Developer y diseño",
         subtitle: "No Country (ArteSano)",
-        description: "Simulación Laboral, practicas en equipo. Elaboración de un e-commerce completo, tienda de venta artesanías, conexión de artesanos con posibles clientes, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Jira",
+        description: "Simulación Laboral, practicas en equipo. Elaboración de un e-commerce completo, tienda de venta artesanías, conexión de artesanos con posibles clientes, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Jira, colabore en equipo de diseño con FIGMA",
         tech: "Next Js, React Hooks, Node js, Javascript, Redux-Toolkit, Mongo DB, Express, Tailwind, CSS, HTML, deploy en Vercel y railway",
         date: "Jul 2024 ",
     },
@@ -89,7 +89,7 @@ export const dataAboutPage = [
     },
     {
         id: 4,
-        title: "Frontend Developer",
+        title: "Frontend  y Backend Developer",
         subtitle: "Henry Bootcamp (Henrucci)",
         description: "Experiencia Académica, proyectos individuales varios y como proyecto final grupal, elaboración de un e-commerce completo, tienda de venta de ropa, carrito de compra, pasarela de pago, envio de email, admin dashboard, registro de clientes, JWT, favoritos, rewiews, puntuación, best sellers, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Trello",
         tech: "Next Js, React Hooks, Node js, Javascript, Redux-Toolkit, Mongo DB, Express, Tailwind, CSS, HTML, deploy en Vercel y railway",
