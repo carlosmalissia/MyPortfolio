@@ -239,7 +239,7 @@ export const dataPortfolio = [
     },
     {
         id: 8,
-        title: "Web Pro",
+        title: "Informe de datos ONG Potenciar Solidario",
         image: "/reporteONG.jpg",
         urlGithub: "https://lookerstudio.google.com/u/0/reporting/7731b9ec-f8c2-4f47-9c95-c78374db448a/page/p_pvyl35kold",
         urlDemo: "https://lookerstudio.google.com/u/0/reporting/7731b9ec-f8c2-4f47-9c95-c78374db448a/page/p_pvyl35kold",
