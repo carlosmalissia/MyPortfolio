@@ -115,7 +115,7 @@ export const dataAboutPage = [
         id: 7,
         title: "Mantenimiento sitio web",
         subtitle: "Aromas del Uritorco",
-        description: "Mantenimiento y creación de contenido de sitio web de una fábrica de sahumerios en Capilla del Monte",
+        description: " Copywriting, mantenimiento y creación de contenido de sitio web de una fábrica de sahumerios en Capilla del Monte",
         tech: "Javascript, PHP, CSS, HTML, sistema de envio y recibo de emails",
         date: "Ene 2022",
     },
@@ -154,11 +154,7 @@ export const dataCounter = [
 ];
 
 export const serviceData = [
-    {
-        icon: <Crop />,
-        title: "Branding",
-        description: "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
-    },
+    
     {
         icon: <Pencil />,
         title: "Diseño web",
@@ -168,6 +164,16 @@ export const serviceData = [
         icon: <Computer />,
         title: "Desarrollo web",
         description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
+    },
+    {
+        icon: <Crop />,
+        title: "Backend",
+        description: "Desarrollo de Apis,backend, bases de datos, CMS y CRM, paneles administrador personalizados",
+    },
+    {
+        icon: <Crop />,
+        title: "Branding",
+        description: "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
     },
     {
         icon: <Book />,
