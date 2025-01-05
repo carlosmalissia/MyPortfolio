@@ -76,7 +76,7 @@ export const dataAboutPage = [
         title: "Frontend Developer y diseño",
         subtitle: "No Country (ArteSano)",
         description: "Simulación Laboral, practicas en equipo. Elaboración de un e-commerce completo, tienda de venta artesanías, conexión de artesanos con posibles clientes, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Jira, colabore en equipo de diseño con FIGMA",
-        tech: "Next Js, React Hooks, Node js, Javascript, Redux-Toolkit, Mongo DB, Express, Tailwind, CSS, HTML, deploy en Vercel y railway",
+        tech: "Next Js, React Hooks, Node js, Javascript,, Figma, Redux-Toolkit, Mongo DB, Express, Tailwind, CSS, HTML, deploy en Vercel y railway",
         date: "Jul 2024 ",
     },
     {
