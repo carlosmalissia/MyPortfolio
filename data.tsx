@@ -168,7 +168,7 @@ export const serviceData = [
     {
         icon: <Crop />,
         title: "Backend",
-        description: "Desarrollo de Apis,backend, bases de datos, CMS y CRM, paneles administrador personalizados",
+        description: "Desarrollo de Apis, backend, bases de datos, CMS y CRM, paneles administrador personalizados",
     },
     {
         icon: <Crop />,
