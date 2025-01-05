@@ -65,6 +65,22 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
+        title: "Data Analytic",
+        subtitle: "Guayerd e IBM",
+        description: "Elaboración de un reporte de ingresos- egresos de la ONG Potenciar Trabajo, trabajo individual y en equipo, utilización de varias tecnicas y herramientas de estructruración, análisis y visualización de datos",
+        tech: "Excel, Google sheets, Micrsoft Power BI, power query,Looker Studio, SQL y bases de datos varias ",
+        date: "ago 2024 ",
+    },
+    {
+        id: 2,
+        title: "Frontend Developer",
+        subtitle: "No Country",
+        description: "Simulación Laboral, practicas en equipo. Elaboración de un e-commerce completo, tienda de venta artesanías, conexión de artesanos con posibles clientes, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Tello",
+        tech: "Next Js, React Hooks, Node js, Javascript, Redux-Toolkit, Mongo DB, Express, Tailwind, CSS, HTML, deploy en Vercel y railway",
+        date: "Jul 2024 ",
+    },
+    {
+        id: 3,
         title: "Portfolio animado",
         subtitle: "Freelance",
         description: "Realización de un portfolio usando técnicas de animación modernas y responsive ",
@@ -72,7 +88,7 @@ export const dataAboutPage = [
         date: "Mar 2024",
     },
     {
-        id: 2,
+        id: 4,
         title: "Frontend Developer",
         subtitle: "Henry Bootcamp",
         description: "Elaboración de un e-commerce completo, tienda de venta de ropa, carrito de compra, pasarela de pago, envio de email, admin dashboard, registro de clientes, JWT, favoritos, rewiews, puntuación, best sellers, perfil de usuario, historial de compra, etc. Trabajo en equipo, metodología Scrum, Lidere equipo de frontend, manejo de técnicas Git Flow, organización con Tello",
@@ -80,7 +96,7 @@ export const dataAboutPage = [
         date: "Dic 2023 ",
     },
     {
-        id: 3,
+        id: 5,
         title: "Teaching Assistant",
         subtitle: "Henry Bootcamp",
         description: "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio. Asistir a la resolución de ejercicios y promover la colaboración grupal (Pair Programming). Asesorar a los estudiantes para sus futuros desafíos basado en mi propia experiencia en las tecnologías y metodos de trabajo. Proponer ideas para la mejora de los procesos del bootcamp",
@@ -88,12 +104,20 @@ export const dataAboutPage = [
         date: "Oct 2023",
     },
     {
-        id: 4,
+        id: 6,
         title: "Desarrollo CRM",
         subtitle: "Udemy",
         description: "Admin dashboard de un e-commerce con administración de productos, usuarios/clientes, Vendedores, pedidos, etc",
         tech: "Next js, React, Node, Typescript, Tailwind, Apolo Server, GraphQL, Mongo DB, JWT, CSS, HTML, deploy en Nestify",
-        date: "Dic 2022",
+        date: "may 2022",
+    },
+    {
+        id: 7,
+        title: "Mantenimiento sitio web",
+        subtitle: "Aromas del Uritorco",
+        description: "Mantenimiento y creación de contenido de sitio web de una fábrica de sahumerios en Capilla del Monte",
+        tech: "Javascript, PHP, CSS, HTML, sistema de envio y recibo de emails",
+        date: "Ene 2022",
     },
 
 ]
@@ -101,7 +125,7 @@ export const dataAboutPage = [
 export const dataCounter = [
     {
         id: 0,
-        endCounter: 2,
+        endCounter: 3,
         text: "Años de experiencia",
         lineRight: true,
         lineRightMobile: true,
@@ -122,8 +146,8 @@ export const dataCounter = [
     },
     {
         id: 3,
-        endCounter: 1,
-        text: "Premios ganadores",
+        endCounter: 5,
+        text: "Proyectos individuales",
         lineRight: false,
         lineRightMobile: false,
     },
