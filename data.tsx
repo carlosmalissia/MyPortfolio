@@ -204,7 +204,7 @@ export const dataPortfolio = [
     },
     {
         id: 3,
-        title: "Portfolio Animado Genio Total",
+        title: "Portfolio Animado Carlos Malissia",
         image: "/portada-portfolio.jpg",
         urlGithub: "https://github.com/carlosmalissia/MyPortfolio",
         urlDemo: "https://transcendent-panda-cdf84f.netlify.app/",
