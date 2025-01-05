@@ -67,7 +67,7 @@ export const dataAboutPage = [
         id: 1,
         title: "Data Analytic",
         subtitle: "Guayerd e IBM (Potenciar Trabajo)",
-        description: "Elaboración de un reporte de ingresos y egresos de la ONG Potenciar Trabajo, trabajo individual y en equipo, utilización de varias tecnicas y herramientas de estructruración, análisis y visualización de datos",
+        description: "Elaboración de un reporte de ingresos y egresos de la ONG Potenciar Trabajo, trabajo individual y en equipo, utilización de varias tecnicas y herramientas de estructuración, análisis y visualización de datos",
         tech: "Excel, Google sheets, Micrsoft Power BI, power query, Looker Studio, SQL y bases de datos varias ",
         date: "ago 2024 ",
     },
