@@ -68,6 +68,7 @@ export const dataAboutPage = [
         title: "CRM Artesanos",
         subtitle: "Proyecto individual",
         description: "Plataforma full-stack con control de roles, gestión de productos y almacenamiento en la nube para un marketplace artesanal",
+        tech:"Implementé CRUD de productos con carga de imágenes a AWS S3 y almacenamiento de datos en MongoDB Atlas. El frontend fue desarrollado con Next.js y TypeScript, utilizando RTK Query para el manejo del estado y consumo eficiente de APIs.",
         date: "may 2025 ",
     },
     {
